@@ -1,12 +1,37 @@
-# React + Vite
+# 🎶 ezMusic App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ezMusic App** is a platform that brings people closer through the power of music.  
+Discover, share, and collaborate on playlists — all in real-time!  
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [ezmusic.vercel.app](https://ezmusic.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎵 **Music Rooms:** Listen to music with friends in real time.
+- 🔗 **Playlist Sharing:** Share playlists instantly via Dynamic Links.
+- 📥 **Import Playlists:** Bring in your existing playlists from other platforms.
+- ➕ **Merge Playlists:** Combine multiple playlists into the perfect mix.
+- ⚡ **Built with speed & smooth performance in mind.**
+
+---
+
+## 🛠 Tech Stack
+
+- **React + Vite** — Fast development with Hot Module Replacement (HMR)
+- **Tailwind CSS** — Modern, utility-first styling
+- **Framer Motion** — Smooth animations
+- **Firebase Realtime Database** — Real-time sync for music rooms
+- **YouTube API** — Unlimited music & video options
+- **Dynamic Linking** — Share playlists seamlessly
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/ezmusic-app.git
+cd ezmusic-app
